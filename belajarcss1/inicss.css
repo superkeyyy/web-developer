@@ -1,0 +1,41 @@
+/* .first-div {
+    background-color: red;
+}
+.second-div {
+    background-color: green;
+}
+.box1 {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+.box2 {
+    background-color: orange;
+    height: 100px;
+    width: 200px;
+}
+.box3 {
+    background-color: yellow;
+    height: 100px;
+    width: 300px;
+} */
+ .nav {
+    background-color: yellow;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+ }
+ 
+ .menu1 {
+    background-color: red;
+ }
+ .menu2 {
+    background-color: green;
+ }
+ .menu3 {
+    color: white;
+    background-color: blue;
+ }
+ #content1 {
+    margin-top: 1000px;
+ }
